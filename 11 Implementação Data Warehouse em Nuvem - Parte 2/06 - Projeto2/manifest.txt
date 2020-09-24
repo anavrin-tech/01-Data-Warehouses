@@ -1,0 +1,9 @@
+
+{
+	"entries": [
+		{"url":"s3://bucket-name/vendas1.txt.gz", "mandatory":true},
+		{"url":"s3://bucket-name/vendas2.txt.gz", "mandatory":true},
+		{"url":"s3://bucket-name/vendas3.txt.gz", "mandatory":true},
+		{"url":"s3://bucket-name/vendas4.txt.gz", "mandatory":true}
+	]
+}
